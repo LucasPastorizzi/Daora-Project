@@ -1,4 +1,4 @@
-# Daora Project
+# 🍝 Daora Project
 
 Any images for Daora Project.
 <br><br>
@@ -9,41 +9,45 @@ Any images for Daora Project.
 </p>
 <p align="center">
   <img src="./assets/Screenshot_1.png" alt="Preview 3" width="45%" />
-
-  
 </p>
 
+---
 
-
-
-
-
-
-# Project Status (Finish)
+# ✅ Project Status
+**Finished** 🎉
 <br>
 
-# Technologies
--Java <br>
--JavaX <br>
--JPA <br>
--Hibernate <br>
--MySql <br>
--Ux/Ui
+---
+
+# 🛠️ Technologies
+- ☕ Java  
+- 📦 JavaX  
+- 🧬 JPA  
+- 🗃️ Hibernate  
+- 🐬 MySQL  
+- 🎨 UX/UI  
 <br>
 
-# Team 
--Lucas Pastorizzi
+---
+
+# 👥 Team 
+- Lucas Pastorizzi 👨‍💻  
 <br>
-# Purpose of the software
-The daora project was created to convey security, applicability, accessibility and also responsiveness, it was created for a pasta company, where they needed an effective system for their productivity, however with my knowledge, I developed this system for the company.
+
+---
+
+# 🎯 Purpose of the Software
+The **Daora Project** was created to convey **security**, **applicability**, **accessibility**, and **responsiveness**.  
+It was developed for a **pasta company** that needed an effective system for productivity.  
+With my technical knowledge, I designed and built this system to meet their needs. 🍝
 <br>
 
-# System Features
--Listining <br>
--Security <br>
--Filters <br>
--Deletes <br>
--Registers <br>
--Login
+---
 
-
+# ⚙️ System Features
+- 📋 Listing  
+- 🔐 Security  
+- 🔍 Filters  
+- 🗑️ Deletes  
+- 📝 Registers  
+- 🔑 Login  
